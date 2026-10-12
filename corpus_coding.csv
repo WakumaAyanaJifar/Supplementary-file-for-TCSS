@@ -1,0 +1,81 @@
+final_id,orig_id,bibkey,year,short_title,primary_dimension,study_type,status,note
+1,1,ning2015cpst,2015,CPST space framework for IoT,X,C,included,
+,2,platzer2016logic,2016,Logic and proofs for cyber-physical systems,C,F,excluded-c,General CPS verification; no social component
+2,3,ning2017cybermatics,2016,Cybermatics: CPST hyperspace,X,C,included,
+3,4,ning2018general,2018,General cyberspace,X,C,included,
+,5,lee2015past,2015,"Past, present and future of CPS",C,R,excluded-c,General CPS modeling; no social component
+,6,shi2016edge,2016,Edge computing: vision and challenges,C,C,excluded-c,Computing infrastructure; no social component
+4,7,zhou2020cpss,2020,CPSS survey,X,R,included,
+5,8,wang2021cpss,2020,Parallel intelligence in CPSS,C,C,included,
+6,9,sony2020industry,2020,Industry 4.0 and socio-technical systems theory,X,R,included,
+,10,falcone2019trust,2019,Trust in multi-agent and cyber-social systems,I,?,withheld-unverified,Title and DOI 10.1007/s10588-018-9273-0 not found
+7,11,polojaervi2023systematic,2023,Sociotechnical systems in systems engineering: SLR,X,R,included,
+8,12,marra2024neurosym,2024,Statistical relational to neurosymbolic AI: survey,X,R,included,
+9,13,ji2022survey,2022,Knowledge graphs survey,I,R,included,
+10,14,saad2025agi,2025,AGI-native wireless systems,X,C,included,
+11,15,floridi2018ai,2018,AI4People ethical framework,P,C,included,
+,16,tao2019digital,2019,Digital twin in industry,C,R,excluded-c,Industrial digital twins; no social component
+12,17,roopa2019social,2019,Social IoT review,I,R,included,
+13,18,sobb2023holistic,2023,Holistic review of CPSS,X,R,included,
+14,19,eady2023foreign,2023,"Foreign influence campaign on Twitter, 2016 US election",P,E,included,Retained under redefined (d): models agent (voter) behavior under adversarial influence
+15,20,leong2020digital,2020,Digital organizing of a global social movement,I,E,included,"Authors corrected: Leong, Faik, Tan, Tan, Khoo (not Bennett & Segerberg); retained under redefined (d): models collective/institutional organizing"
+16,21,chopra2016social,2016,From social machines to social protocols,I,F,included,
+17,22,ning2017cyberlogic,2017,Cyberlogic: from cyber philosophy to cyber science,X,C,included,
+18,23,gebru2022human,2022,Human-machine trust evaluation review,I,R,included,
+,24,governatori2020deontic,2020,Deontic defeasible reasoning: systematic framework,P,?,withheld-unverified,Title not found; not in authors' dblp listings
+19,25,binns2018fairness,2018,Fairness in ML: lessons from political philosophy,P,C,included,
+20,26,nigam2021cyberlogic,2021,Proof search and certificates for evidential transactions,X,F,included,
+21,27,ning2020social,2020,Social IoT survey,I,R,included,
+22,28,huang2023overview,2023,Overview of AI ethics,P,R,included,
+23,29,weyens2025architectural,2025,Benefit-cost-risk decision-making in self-adaptive systems,C,C,included,
+24,30,carley2020social,2020,Social cybersecurity,P,C,included,
+25,31,alFawwaz2022reduction,2022,Reduction model checking for group social commitments,I,F,included,
+26,32,golpayegani2019social,2019,Social dependence in open MAS,I,F,included,"Verified: ACM TIST, doi 10.1145/3319402"
+27,33,pinheiro2023trust,2023,Trust-based negotiation in MAS: systematic review,P,R,included,"Verified: Barbosa, Santos, Novais, PAAMS 2023"
+28,34,ronnedal2018temporal,2018,Temporal alethic dyadic deontic logic,P,F,included,
+29,35,shults2025simulating,2025,Simulating theory and society with multi-agent AI,I,C,included,
+30,36,xu2021cyberlogic,2021,Cyberlogic and cyber-driven logic,X,C,included,
+,37,zhao2022verifying,2022,Verifying neural-network controlled systems,C,F,excluded-c,Control-system verification; no social component
+,38,imani2020survey,2020,EPC and non-ID objects for IoT identification,C,R,excluded-c,IoT identification; no social component
+31,39,ichida2026bdi,2026,BDI task-oriented agent in belief space,I,F,included,"Verified: ACM TAAS 21(2):17, doi 10.1145/3770857"
+32,40,karaduman2024impact,2024,Fuzzy-logic BDI agents for CPS,I,F,included,
+33,41,pradeep2025empowering,2025,Explainable AI through case-based reasoning,X,R,included,"Metadata corrected: IEEE TKDE 37(12):7120-7139, doi 10.1109/TKDE.2025.3609825"
+34,42,das2023explainable,2023,Explainable activity recognition for smart homes,C,F,included,
+,43,friederich2022framework,2022,Data-driven digital twins of smart manufacturing,C,F,excluded-c,Industrial manufacturing; no social component
+35,44,deane2025symplex,2025,Symplex: learning social norm hierarchies,P,F,included,
+36,45,dellanna2020runtime,2020,Runtime revision of sanctions in NorMAS,P,F,included,
+37,46,politou2018forgetting,2018,Forgetting personal data under GDPR,P,C,included,
+38,47,canas2022ai,2022,AI and ethics in human-AI collaboration,P,C,included,
+39,48,perdana2026algorithmic,2026,Algorithmic fairness in context,P,C,included,
+40,49,xiong2020comprehensive,2020,Local differential privacy survey,P,R,included,
+41,50,jobin2019global,2019,Global landscape of AI ethics guidelines,P,E,included,
+42,51,arrieta2020explainable,2020,XAI concepts and taxonomies,X,R,included,
+43,52,alam2022trust,2022,Trust management in SIoT survey,I,R,included,
+44,53,cappelli2025methodological,2025,LLM-driven ontology generation,I,F,included,
+45,54,serafini2016logic,2016,Logic tensor networks,X,F,included,
+46,55,yu2023survey,2023,Neural-symbolic learning systems survey,X,R,included,
+47,56,meneguzzi2020programming,2020,Jason-based framework for cognitive agents,I,F,included,
+48,57,manhaeve2018deepproblog,2018,DeepProbLog,X,F,included,
+49,58,donadello2017ltn,2017,LTN for semantic image interpretation,X,F,included,
+50,59,shaik2023remote,2023,AI remote patient monitoring,C,R,included,
+51,60,siot2025trust,2026,Trust and class aware SIoT service discovery,I,F,included,
+52,61,ramyadevi2024blockchain,2024,Blockchain e-voting,P,F,included,
+53,62,aidynov2024systematic,2024,E-voting cryptography review,P,R,included,
+54,63,small2021polis,2021,Polis: scaling deliberation,P,F,included,
+55,64,mulahuwaish2025survey,2025,Social cybersecurity survey,P,R,included,
+56,65,augenstein2024factuality,2024,Factuality challenges in the LLM era,X,C,included,
+57,66,murukannaiah2020engineering,2020,New foundations of ethical multiagent systems,I,C,included,Title corrected (was 'New directions in engineering MAS and social norms'); AAMAS 2020 pp. 1706-1710
+,67,jiang2021social,2021,Social dependence and goal delegation in open MAS,I,?,withheld-unverified,Title not found in IEEE TSC or elsewhere
+58,68,chen2016trust,2016,Trust-based service management for SIoT,I,F,included,
+59,69,cristani2023architecture,2023,Reasoning system for defeasible deontic logic,P,F,included,"Verified via dblp: KES 2023, 4214-4224"
+60,70,Cyberlogic2026,2026,Cyberlogic: cross-space logic in CPST,X,C,included,
+,,goknil2023systematic,2023,Data quality in CPS and IoT for Industry 4.0,,,excluded-c-first-pass,"Reclassified under criterion (c), Amendment 2 (first pass); dimension assigned by the coders, not recorded here"
+,,zhong2023digital,2023,Digital citizenship in children,,,excluded-c-first-pass,"Reclassified under criterion (c), Amendment 2 (first pass); dimension assigned by the coders, not recorded here"
+,,lund2024verified,2024,Verified propositional reasoning,,,excluded-c-first-pass,"Reclassified under criterion (c), Amendment 2 (first pass); dimension assigned by the coders, not recorded here"
+,,ge2025implicit,2025,Knowledge-augmented prompting,,,excluded-c-first-pass,"Reclassified under criterion (c), Amendment 2 (first pass); dimension assigned by the coders, not recorded here"
+,,martins2023explainable,2023,Explainable AI in finance,,,excluded-c-first-pass,"Reclassified under criterion (c), Amendment 2 (first pass); dimension assigned by the coders, not recorded here"
+,,cao2023robustness,2023,Robustness of belief-rule-based expert systems,,,excluded-c-first-pass,"Reclassified under criterion (c), Amendment 2 (first pass); dimension assigned by the coders, not recorded here"
+,,petrucci2020petri,2020,From Petri nets to coloured Petri nets,,,excluded-c-first-pass,"Reclassified under criterion (c), Amendment 2 (first pass); dimension assigned by the coders, not recorded here"
+,,wang2022task,2022,Semantic-map task planning for service robots,,,excluded-c-first-pass,"Reclassified under criterion (c), Amendment 2 (first pass); dimension assigned by the coders, not recorded here"
+,,cabac2018renew,2018,Renew Petri-net environment,,,excluded-c-first-pass,"Reclassified under criterion (c), Amendment 2 (first pass); dimension assigned by the coders, not recorded here"
+,,gomes2020formal,2020,Railway interlocking verification in UPPAAL,,,excluded-c-first-pass,"Reclassified under criterion (c), Amendment 2 (first pass); dimension assigned by the coders, not recorded here"
